@@ -19,10 +19,10 @@ Duración: cantidad de días
 Precio: expresado en USD
 Cupos: cantidad máxima de pasajeros
 ## Conceptos practicados
-Clases
-Constructor
-Propiedades
-Objetos
-Modelado de datos
-JavaScript
-Uso de console.log()
+#Clases
+#Constructor
+#Propiedades
+#Objetos
+#Modelado de datos
+#JavaScript
+#Uso de console.log()
